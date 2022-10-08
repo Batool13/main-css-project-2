@@ -1,149 +1,142 @@
 #body
 {
-    margin: 0px;
+    margin:0px;
 }
 .logo
 {
     height:24px;
-    align-items: center;
+    align-items:center;
 }
 .header-container
 {
-    color: #F9FAF8;
-    background-color: #1F2937;
+    color:#F9FAF8;
+    background-color:#1F2937;
     display:flex;
     justify-content:space-between;
-    padding-left:100px;
-    padding-right:100px ;
+    padding-left:10%;
+    padding-right:10%;
     align-items: center;
     font-size:18px;
-    padding-top: 25px;
-    padding-bottom:25px;
+    padding-top:2%;
+    padding-bottom:2%;
 }
 .header-links-container
 {
-    display: flex;
-    gap: 10px;
+    display:flex;
+    gap:5%;
 }
 
 .extra-bold-title
 {
-    font-size: 48px;
+    font-size:48px;
     font-weight:bolder;
     color:#F9FAF8;
-    margin: 0px;
+    margin:0px;
 }
 .medium-img
 {
     height:200px;
-    border-radius: 15px;
-    align-items: center;
+    border-radius:15px;
+    align-items:center;
 }
 
 .default-button
 {
-    background-color: #3882f6;
-    color: #F9FAF8;
-    padding-left: 30px;
-    padding-right: 30px;
-    border-radius: 10px;
-    height: 30px;
+    background-color:#3882f6;
+    color:#F9FAF8;
+    padding-left:30px;
+    padding-right:30px;
+    border-radius:10px;
+    height:30px;
 }
 .bold-text-title
 {
-    font-size: 36px;
-    font-weight: bolder;
-    color: #1F2937;
-    text-align: center;
+    font-size:36px;
+    font-weight:bolder;
+    color:#1F2937;
+    text-align:center;
 
 }
 .img-container
 {
-    color: #1F2937;
-    background-color: white;
-    display: flex;
+    color:#1F2937;
+    background-color:white;
+    display:flex;
     justify-content:center;
-    padding: 10px;
-    gap: 40px;
-    align-items: center;
-    align-content: center;
+    padding:1%;
+    gap:3%;
+    align-items:center;
+    align-content:center;
     font-size:18px;
-    padding-bottom: 50px;
+    padding-bottom:4%;
 }
 .quot-container
 {
-    color: #1F2937;
-    background-color: #F9FAF8;
-    display: flex;
+    color:#1F2937;
+    background-color:#F9FAF8;
+    display:flex;
     justify-content:center;
-    padding: 10px;
-    margin-left: 100px;
-    margin-right: 100px;
-    gap: 40px;
-    align-items: center;
+    padding:10px;
+    margin-left:15%;
+    margin-right:15%;
+    align-items:center;
     font-size:18px;
-    font-style: italic;
+    font-style:italic;
 }
 .quot
 {
-    size: 36px;
-    font-style: italic;
-    color: #1F2937;
-    
+    size:36px;
+    font-style:italic;
+    color:#1F2937;   
 }
 .call-container
 {
-    color: #F9FAF8;
-    background-color: #3882f6;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-left: 300px;
-    margin-right: 300px;
-    margin-top: 50px;
+    color:#F9FAF8;
+    background-color:#3882f6;
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+    margin-top:4%;
+    margin-left:20%;
+    margin-right:20%;
     font-size:18px;
-    border-radius: 10px;
-    gap: 0px;
+    border-radius:10px;
+    width:60%;
+    padding:1%;
 }
 .call-title
 {
-    padding-top: 10px;
-    font-weight: bold;
-    margin: 0%;
+    padding-top:1%;
+    font-weight:bold;
+    margin:0%;
 
 }
 .call-paragraph
 {
-    margin: 0%;
-    padding-bottom: 10px;
-    font-weight: lighter;
-    font-size: medium;
+    margin:0%;
+    padding-bottom:10px;
+    font-weight:lighter;
+    font-size:medium;
 }
 .call-button
 {
     background-color: #3882f6;
-    color: #F9FAF8;
-    padding-left: 30px;
-    padding-right: 30px;
-    border-radius: 25px;
-    border-color: #F9FAF8;
+    color:#F9FAF8;
+    padding-left:30px;
+    padding-right:30px;
+    border-radius:25px;
+    border-color:#F9FAF8;
     margin-left:70px ;
 }
 .footer-container
 {
-    color: #F9FAF8;
-    background-color: #1F2937;
-    display: flex;
+    color:#F9FAF8;
+    background-color:#1F2937;
+    display:flex;
     justify-content:center;
-    align-items: center;
-    margin-top: 50px;
-    height: 50px;
-}
-.copyright-title
-{
-    padding: 0px;
-    display: flex;
-
+    align-items:center;
+    margin-top:2%;
+    height:1%;
 }
 .img-text
 {
