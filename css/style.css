@@ -1,0 +1,155 @@
+#body
+{
+    margin: 0px;
+}
+.logo
+{
+    height:24px;
+    padding-right: 200px;
+}
+.header-container
+{
+    color: #F9FAF8;
+    background-color: #1F2937;
+    display: flex;
+    justify-content:center;
+    padding: 10px;
+    gap: 400px;
+    align-items: center;
+    font-size:18px;
+}
+.header-links-container
+{
+    display: flex;
+    gap: 10px;
+    padding-right:10px
+}
+.extra-bold-title
+{
+    font-size: 48px;
+    font-weight:bolder;
+    color:#F9FAF8;
+    margin: 0px;
+}
+.img-container
+{
+    display: flex;
+
+}
+
+.medium-img
+{
+    height:200px;
+    border-radius: 15px;
+}
+.small-text-paragraph
+{
+    justify-content:center;
+    align-content: center;
+}
+.default-button
+{
+    background-color: #3882f6;
+    color: #F9FAF8;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 10px;
+    height: 30px;
+}
+.bold-text-title
+{
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+
+}
+.row-container
+{
+    color: #1F2937;
+    background-color: white;
+    display: flex;
+    justify-content:center;
+    padding: 10px;
+    gap: 40px;
+    align-items: center;
+    font-size:18px;
+    padding-bottom: 50px;
+    margin-bottom: 0px;  
+}
+.quot-container
+{
+    color: #1F2937;
+    background-color: #F9FAF8;
+    display: flex;
+    justify-content:center;
+    padding: 10px;
+    margin-left: 100px;
+    margin-right: 100px;
+    gap: 40px;
+    align-items: center;
+    font-size:18px;
+    font-style: italic;
+}
+.quot
+{
+    size: 36px;
+    font-style: italic;
+    color: #1F2937;
+    
+}
+.call-container
+{
+    color: #F9FAF8;
+    background-color: #3882f6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 50px;
+    font-size:18px;
+    border-radius: 10px;
+    gap: 0px;
+}
+.call-title
+{
+    padding-top: 10px;
+    font-weight: bold;
+    margin: 0%;
+
+}
+.call-paragraph
+{
+    margin: 0%;
+    padding-bottom: 10px;
+    font-weight: lighter;
+    font-size: medium;
+}
+.call-button
+{
+    background-color: #3882f6;
+    color: #F9FAF8;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 25px;
+    border-color: #F9FAF8;
+    margin-left:70px ;
+}
+.footer-container
+{
+    color: #F9FAF8;
+    background-color: #1F2937;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    margin-top: 50px;
+}
+.copyright-title
+{
+    padding: 0px;
+
+}
+.devider-50px
+{
+    height: 50px;
+}
